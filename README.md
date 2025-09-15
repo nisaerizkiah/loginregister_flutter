@@ -14,7 +14,7 @@ Langkah Pengerjaan:
 9. Maka tampilan hasilnya akan menampilkan halamn login:
 <img width="1920" height="1200" alt="hasil1" src="https://github.com/user-attachments/assets/42cce9a5-c989-4c92-a87d-d4cf4a0eb57b" />
 
-10. Jika user menekan Sign Up, maka diarahkan ke halaman Registrasi, kemudia inputkan fullname, email dan password:
+10. Jika user menekan Sign Up, maka diarahkan ke halaman Registrasi, kemudian inputkan fullname, email dan password:
 <img width="1920" height="1200" alt="hasil2" src="https://github.com/user-attachments/assets/c6f95b7f-1562-4000-b9cd-d622d276e504" />
 
 11. Setelah akun berhasil dibuat, user bisa login dengan akun barunya.
@@ -24,3 +24,4 @@ Langkah Pengerjaan:
 <img width="1920" height="1200" alt="hasil6" src="https://github.com/user-attachments/assets/08f1760f-a1ca-46d8-9719-b665d3a0fd8b" />
 
 15. Tombol Logout pojok kanan atas akan membawa user kembali ke halaman login nantinya.
+
