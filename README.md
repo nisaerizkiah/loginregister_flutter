@@ -1,4 +1,4 @@
-#Praktikum Login-Register Flutter
+# Praktikum Login-Register Flutter
 Pada praktikum ini membuat aplikasi flutter sederhana yang memiliki fitur lagin dan register. Hasil akhirnya nanti menampilkan halaman login, halaman registrasi, dan halaman home setelah berhasil login.
 
 Langkah Pengerjaan:
@@ -24,4 +24,5 @@ Langkah Pengerjaan:
 <img width="1920" height="1200" alt="hasil6" src="https://github.com/user-attachments/assets/08f1760f-a1ca-46d8-9719-b665d3a0fd8b" />
 
 15. Tombol Logout pojok kanan atas akan membawa user kembali ke halaman login nantinya.
+
 
